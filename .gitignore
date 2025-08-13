@@ -1,0 +1,18 @@
+# Build artifacts
+build/*
+.trace
+.coverage*
+
+# Move artifacts
+Move.lock
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
