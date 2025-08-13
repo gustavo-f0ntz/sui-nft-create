@@ -41,9 +41,9 @@ meu_nft_exemplo/
 - **Exercícios práticos** para diferentes níveis
 
 ### Como Usar:
-1. **Para workshop rápido:** Use `ROTEIRO_EVENTO.md`
-2. **Para estudo aprofundado:** Use `GUIA_COMPLETO_NFT.md`
-3. **Para emergência:** Use `CHEAT_SHEET.md` e `COMANDOS_PRONTOS.md`
+1. **Para workshop rápido:** Use [ROTEIRO_EVENTO.md](docs/ROTEIRO_EVENTO.md)
+2. **Para estudo aprofundado:** Use [GUIA_COMPLETO_NFT.md](docs/GUIA_COMPLETO_NFT.md)
+3. **Para emergência:** Use [CHEAT_SHEET.md](docs/CHEAT_SHEET.md) e [COMANDOS_PRONTOS.md](docs/COMANDOS_PRONTOS.md)
 
 ## 🛠️ Como Executar
 
